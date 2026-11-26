@@ -2,6 +2,12 @@
 # AeroSage 🌍
 ### AI-Powered Urban Air Quality Assistant
 
+### 🌐 Live Demo
+
+**[Launch AeroSage – Live Application](https://aero-sage-cyan.vercel.app/)**
+
+**[GitHub Repository](https://github.com/PradeepSaptasagar/AeroSage)**
+
 Breathe smarter. Live healthier.
 
 AeroSage is an AI-powered urban air quality assistant that helps people understand local air pollution, interpret pollutant levels, and make informed everyday decisions to reduce exposure.
